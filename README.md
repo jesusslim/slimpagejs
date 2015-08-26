@@ -55,9 +55,9 @@ We can add some params to SlimPage.Params,if we do this,when we click to jump,th
 
 Jesus Slim
 
-Email1:[755808379@qq.com]
+Email1:[630405377@qq.com]
 
 Email2:[jesus.slim@yahoo.com]
 
-[755808379@qq.com]:mailto:755808379@qq.com
+[755808379@qq.com]:mailto:630405377@qq.com
 [jesus.slim@yahoo.com]:mailto:jesus.slim@yahoo.com
